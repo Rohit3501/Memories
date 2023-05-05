@@ -24,7 +24,7 @@
 ## Screenshots
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rohit3501/Memories/MemoryScr/MemoryScr1.jpg" alt="project" height="600" width="900" >
+<img src="https://raw.githubusercontent.com/Rohit3501/Memories/MemoriesScr/MemoriesScr1.jpg" alt="project" height="600" width="900" >
 </p>
 
 ## Key Features
