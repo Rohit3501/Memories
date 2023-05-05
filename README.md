@@ -49,22 +49,18 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/pandeysushmit/quiz_app
+$ git clone https://github.com/Rohit3501/Memories
 
-# Go into the repository
-$ cd quiz_app
+# Go into the repository, Open terminal and split it
+$ cd client on client side , cd server in server side
 
 # Install dependencies for both the server & client sides
-$ cd server
-$ npm install
-# Open another Terminal for this
-$ cd client
 $ npm install
 
 # Run the app on client side terminal
 $ npm run start
 #Run the server side
-$ nodemon
+$ nodemon app.js
 ```
 ## Tools Used 
 <img src="https://raw.githubusercontent.com/Rohit3501/Memories/main/MemoriesScr/mernImage.jpeg" alt="project" height="200" width="500" >
