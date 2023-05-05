@@ -67,14 +67,5 @@ $ npm run start
 #Run the server side
 $ nodemon
 ```
-## Credits
-
-This software uses the following open source packages:
-
-<img src="[[https://raw.githubusercontent.com/Rohit3501/Memories/main/MemoriesScr/MemoriesScr1.png](https://cms-assets.tutsplus.com/uploads/users/1160/posts/25205/preview_image/react.jpg)](https://th.bing.com/th/id/OIP.XNX7y7tpjphPowTNABIqMAAAAA?pid=ImgDet&rs=1)" alt="react.js" height="100" width="500" >
-
-
-## Contributers to this Project
-- <a href="https://github.com/rohit-kumar1926">Rohit Kumar</a>
-- <a href="https://github.com/kumarcodes3004">Kumar Satyam</a>
-- <a href="https://github.com/pandeysushmit">Me</a>
+## Tools Used 
+<img src="https://raw.githubusercontent.com/Rohit3501/Memories/main/MemoriesScr/mernImage.jpeg" alt="project" height="200" width="500" >
