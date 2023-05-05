@@ -16,7 +16,7 @@
   <a href="#Screenshots">Screenshots</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#Tools Used">Credits</a> •  
+  <a href="#Tools-Used">Tools Used</a> •  
 </p>
 
 
