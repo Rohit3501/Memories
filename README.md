@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/Rohit3501/quiz_app/main/screenshots/logo.png" alt="Markdownify" height="200" width="200"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/Rohit3501/quiz_app/main/screenshots/logo.png" alt="Markdownify" height="100" width="100"></a>
   <br>
   Memories
   <br>
@@ -24,20 +24,25 @@
 ## Screenshots
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rohit3501/Memories/MemoriesScr/MemoriesScr1.jpg" alt="project" height="600" width="900" >
+<img src="https://raw.githubusercontent.com/Rohit3501/Memories/main/MemoriesScr/MemoriesScr1.png" alt="project" height="250" width="400" >
+  <img src="https://raw.githubusercontent.com/Rohit3501/Memories/main/MemoriesScr/MemoriesScr2.png" alt="project" height="250" width="400" >
+  <img src="https://raw.githubusercontent.com/Rohit3501/Memories/main/MemoriesScr/MemoriesScr3.png" alt="project" height="250" width="400" >
+  <img src="https://raw.githubusercontent.com/Rohit3501/Memories/main/MemoriesScr/MemoriesScr4.png" alt="project" height="250" width="400" >
 </p>
 
 ## Key Features
 
-* Adaptive Learning - Learning while adapting
-  - Student get to solve questions according to their level of understanding and subsequently improving.
-* Interactive Exercises
-  - There are a number of exercises to choose from for practicing the concepts.
-* Kids Friendly Design  
-* Teachers Dashboard
-* Questions Database
-* Results Dashboard
-* Scoreboard display after each test
+* Google Login
+  - Imlemented Google OAuth 2.0 .
+* JWT
+  - Used JWT for Authorization .
+* User Friendly UI/UX  
+* Pagination
+  - used concept of pagination to fetch 8 posts per page for better user experience and fast render.
+* Search
+  - implemented search by tags and also search by title.
+* Like
+  - User can like any post .
 
 ## How To Use
 
@@ -66,11 +71,9 @@ $ nodemon
 
 This software uses the following open source packages:
 
-- [MongoDB](https://www.mongodb.com/)
-- [ExpressJS](https://expressjs.com/)
-- [ReactJS](https://react.dev/)
-- [Node.js](https://nodejs.org/)
-- Images are taken from <a href="https://www.freepik.com/">Freepik.</a>
+<img src="[[https://raw.githubusercontent.com/Rohit3501/Memories/main/MemoriesScr/MemoriesScr1.png](https://cms-assets.tutsplus.com/uploads/users/1160/posts/25205/preview_image/react.jpg)](https://th.bing.com/th/id/OIP.XNX7y7tpjphPowTNABIqMAAAAA?pid=ImgDet&rs=1)" alt="react.js" height="100" width="500" >
+
+
 ## Contributers to this Project
 - <a href="https://github.com/rohit-kumar1926">Rohit Kumar</a>
 - <a href="https://github.com/kumarcodes3004">Kumar Satyam</a>
