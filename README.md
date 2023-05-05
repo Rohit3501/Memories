@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/Rohit3501/quiz_app/main/screenshots/logo.png" alt="Markdownify" height="100" width="100"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/Rohit3501/Memories/main/MemoriesScr/memories-Logo.png" alt="memories" height="80" width="80" ><img src="https://raw.githubusercontent.com/Rohit3501/Memories/main/MemoriesScr/memories-Text.png" alt="memories" height="80" width="250" ></a>
   <br>
   Memories
   <br>
@@ -16,8 +16,7 @@
   <a href="#Screenshots">Screenshots</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#contributers-to-this-project">Contributors</a> •
+  <a href="#Tools Used">Credits</a> •  
 </p>
 
 
