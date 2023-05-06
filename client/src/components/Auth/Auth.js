@@ -31,8 +31,7 @@ const initialState = {
 };
 
 const Auth = () => {
-  const clientId =
-    "315416875600-s1lb88mfpkpv90dqpisf6s6vktg0dfrk.apps.googleusercontent.com";
+  const clientId ="your clientID for google auth";
   useEffect(() => {
     gapi.load("client:auth2", () => {
       gapi.auth2.init({ clientId: clientId });
