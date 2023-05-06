@@ -32,7 +32,7 @@
 ## Key Features
 
 * Google Login
-  - Imlemented Google OAuth 2.0 .
+  - Implemented Google OAuth 2.0 .
 * JWT
   - Used JWT for Authorization .
 * User Friendly UI/UX  
